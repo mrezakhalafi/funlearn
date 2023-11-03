@@ -3,10 +3,10 @@
 
 <head>
     <meta charset="utf-8">
-    <title>KidKinder - Kindergarten Website Template</title>
+    <title>FunLearn - Let's Learn Together With Us</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Free HTML Templates" name="keywords">
-    <meta content="Free HTML Templates" name="description">
+    <meta content="FunLearn" name="keywords">
+    <meta content="FunLearn" name="description">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
@@ -35,7 +35,7 @@
         <nav class="navbar navbar-expand-lg bg-light navbar-light py-3 py-lg-0 px-0 px-lg-5">
             <a href="/" class="navbar-brand font-weight-bold text-secondary" style="font-size: 50px;">
                 <i class="flaticon-043-teddy-bear"></i>
-                <span class="text-primary">KidKinder</span>
+                <span class="text-primary">FunLearn</span>
             </a>
             <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
                 <span class="navbar-toggler-icon"></span>
@@ -56,7 +56,8 @@
                     </div>
                     <a href="contact" class="nav-item nav-link">Contact</a>
                 </div>
-                <a href="" class="btn btn-primary px-4">Join Class</a>
+                <a href="/register" class="btn btn-primary px-4 mx-2">Join Class</a>
+                <a href="/login" class="btn btn-outline-primary px-4 mx-2">Login</a>
             </div>
         </nav>
     </div>
@@ -70,9 +71,9 @@
             <div class="col-lg-3 col-md-6 mb-5">
                 <a href="" class="navbar-brand font-weight-bold text-primary m-0 mb-4 p-0" style="font-size: 40px; line-height: 40px;">
                     <i class="flaticon-043-teddy-bear"></i>
-                    <span class="text-white">KidKinder</span>
+                    <span class="text-white">FunLearn</span>
                 </a>
-                <p>Labore dolor amet ipsum ea, erat sit ipsum duo eos. Volup amet ea dolor et magna dolor, elitr rebum duo est sed diam elitr. Stet elitr stet diam duo eos rebum ipsum diam ipsum elitr.</p>
+                <p>Deskripsi singkat terkait funlearn berkisar 2 paragraph isinya.</p>
                 <div class="d-flex justify-content-start mt-4">
                     <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0"
                         style="width: 38px; height: 38px;" href="#"><i class="fab fa-twitter"></i></a>
@@ -90,21 +91,21 @@
                     <h4 class="fa fa-map-marker-alt text-primary"></h4>
                     <div class="pl-3">
                         <h5 class="text-white">Address</h5>
-                        <p>123 Street, New York, USA</p>
+                        <p>Jl. Bojana Tirta E No.25, RT.6/RW.14, Pisangan Tim., Kec. Pulo Gadung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13230</p>
                     </div>
                 </div>
                 <div class="d-flex">
                     <h4 class="fa fa-envelope text-primary"></h4>
                     <div class="pl-3">
                         <h5 class="text-white">Email</h5>
-                        <p>info@example.com</p>
+                        <p>hallokaochi@gmail.com</p>
                     </div>
                 </div>
                 <div class="d-flex">
                     <h4 class="fa fa-phone-alt text-primary"></h4>
                     <div class="pl-3">
                         <h5 class="text-white">Phone</h5>
-                        <p>+012 345 67890</p>
+                        <p>085668743985</p>
                     </div>
                 </div>
             </div>
@@ -137,8 +138,8 @@
         </div>
         <div class="container-fluid pt-5" style="border-top: 1px solid rgba(23, 162, 184, .2);;">
             <p class="m-0 text-center text-white">
-                &copy; <a class="text-primary font-weight-bold" href="#">Your Site Name</a>. All Rights Reserved. Designed
-                by
+                &copy; <a class="text-primary font-weight-bold" href="#">@FunLearn</a>. All Rights Reserved. Redesigned by 
+                <a class="text-primary font-weight-bold" href="https://instagram.com/mrezakhalafi">M Reza Khalafi</a> and Inspiration by
                 <a class="text-primary font-weight-bold" href="https://htmlcodex.com">HTML Codex</a>
             </p>
         </div>

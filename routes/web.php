@@ -43,3 +43,11 @@ Route::get('/single', function () {
 Route::get('/contact', function () {
     return view('contact');
 });
+
+Route::get('/register', function () {
+    return view('register');
+});
+
+Route::get('/login', function () {
+    return view('login');
+});
